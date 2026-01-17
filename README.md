@@ -1,15 +1,19 @@
 ## Hi,I'm Mayuri 👋
-Bsc Data science student in 2nd year. 
-India
-😄About Me
+-Bsc Data science student in 2nd year. 
+-India
+
+###😄About Me
   - I am a Data Science student with a strong interest in learning and applying data skills.
   - Currently building my foundation in programming.
   - Activeley looking for learning opportunities and internships.
-🌱 I’m currently learning
+    
+###🌱 I’m currently learning
   - SQL
   - Basics of Machine Learning
-📫 How to reach me:
+    
+###📫 How to reach me:
  - Email: mayurijadhav929@gmail.com
+   
 ⚡Consistent learner | Open to internships | Improving every day.. 
 <!--
 **mayuri-1628/mayuri-1628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
