@@ -14,6 +14,4 @@
 ###📫 How to reach me:
  - Email: mayurijadhav929@gmail.com
    
-⚡Consistent learner | Open to internships | Improving every day.. 
-<!--
-**mayuri-1628/mayuri-1628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡Consistent learner | Open to internships | Improving every day..✨  
