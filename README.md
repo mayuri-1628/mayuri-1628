@@ -11,7 +11,7 @@
   - SQL
   - Basics of Machine Learning
     
-###📫 How to reach me:
+###📫 How to reach me
  - Email: mayurijadhav929@gmail.com
    
 ⚡Consistent learner | Open to internships | Improving every day..✨  
