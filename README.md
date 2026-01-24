@@ -9,7 +9,7 @@
     
 ###🌱 I’m currently learning
   - SQL
-  - Basics of Machine Learning
+  - data visualization
     
 ###📫 How to reach me
  - Email: mayurijadhav929@gmail.com
