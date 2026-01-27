@@ -11,6 +11,7 @@
   - SQL
   - data visualization
   - Basic of machine learning
+  - python 
     
 ###📫 How to reach me
  - Email: mayurijadhav929@gmail.com
