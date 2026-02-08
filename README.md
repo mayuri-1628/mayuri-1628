@@ -10,7 +10,6 @@
 ###🌱 I’m currently learning
   - SQL.
   - data visualization.
-  - Basic of machine learning.
     
 ###📫 How to reach me
  - Email: mayurijadhav929@gmail.com
