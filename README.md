@@ -10,7 +10,8 @@
 ###🌱 I’m currently learning
   - SQL.
   - data visualization.
-  - python.
+  - python
+  - Numpy pandas 
     
 ###📫 How to reach me
  - Email: mayurijadhav929@gmail.com
