@@ -11,8 +11,9 @@
   - SQL.
   - data visualization.
   - python
-  - Numpy pandas 
-    
+  - Numpy pandas
+  - statistics 
+   
 ###📫 How to reach me
  - Email: mayurijadhav929@gmail.com
    
