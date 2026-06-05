@@ -8,7 +8,8 @@
   - Activeley looking for learning opportunities and internships.
     
 ###🌱 I’m currently learning
-  - power BI 
+  - power BI
+  - SQL 
    
 ###📫 How to reach me
  - Email: mayurijadhav929@gmail.com
